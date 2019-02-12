@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"TE",
+				"TelefonoController"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"fin",
+				"findOrFail"
+			],
+			[
+				"Te",
+				"Telefono"
+			],
+			[
+				"tel",
+				"telefono"
+			],
+			[
+				"tele",
+				"telefonos"
+			],
+			[
+				"U",
+				"UserController"
+			],
+			[
+				"depe",
+				"dependencias"
+			],
+			[
+				"de",
+				"dependencias"
+			],
+			[
+				"te",
+				"telefono"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"num",
+				"numeroSerie"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"exi",
+				"existe"
+			],
+			[
+				"selec",
+				"seleccionada"
+			],
+			[
+				"legajote",
+				"legajoTelefono"
+			],
+			[
+				"I",
+				"I"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"mar",
+				"marca_Pc"
+			],
+			[
+				"pue",
+				"puertoNumero"
+			],
+			[
+				"sw",
+				"switchNumero"
+			],
+			[
+				"dis",
+				"discoRigido"
+			],
+			[
+				"memo",
+				"memoriaRam"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"e",
+				"exists"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"ba",
+				"base"
+			],
+			[
+				"exits",
+				"exists"
+			],
+			[
+				"nom",
+				"nombrePc"
+			],
+			[
+				"nu",
+				"nullable"
+			],
+			[
+				"S",
+				"Station"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"mic",
+				"micros_marcas"
+			],
+			[
+				"s",
+				"sistema"
+			],
+			[
+				"pc_",
+				"pc_marcas"
+			],
+			[
+				"Pc",
+				"Pc_marca"
+			],
+			[
+				"A",
+				"App"
+			],
+			[
+				"le",
+				"lectora"
+			],
+			[
+				"c",
+				"col-md-6"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"rout",
+				"Route"
+			],
+			[
+				"moni",
+				"monitores"
+			],
+			[
+				"ro",
+				"role"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"na",
+				"navbar-right"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"store",
+				"store"
+			],
+			[
+				"mo",
+				"monitores"
+			],
+			[
+				"modelo",
+				"modelo"
+			],
+			[
+				"monitor",
+				"monitor-id"
+			],
+			[
+				"Ca",
+				"Category"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"foreign",
+				"foreign"
+			],
+			[
+				"ag",
+				"agente_id"
+			],
+			[
+				"dro",
+				"dropColumn"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"es",
+				"estacion"
+			],
+			[
+				"esta",
+				"estaciones"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"sta",
+				"station"
+			],
+			[
+				"nombre",
+				"nombre_estacion"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"sec",
+				"Seccion"
+			],
+			[
+				"Es",
+				"Estacion"
+			],
+			[
+				"Se",
+				"Seccion"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Est",
+				"Estacione"
+			],
+			[
+				"Soft",
+				"SoftDelete"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"ES",
+				"estaciones"
+			],
+			[
+				"fre",
+				"frecuencia"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"res",
+				"resultados"
+			],
+			[
+				"est",
+				"estacion"
+			],
+			[
+				"inte",
+				"integer"
+			],
+			[
+				"a",
+				"articulo"
+			],
+			[
+				"N",
+				"Nombre_Articulo"
+			],
+			[
+				"ar",
+				"Articulo"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "vag",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Windows",
+				"name": "vag"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/Laravel",
+		"/C/wamp64/www/Laravel/resources",
+		"/C/wamp64/www/Laravel/resources/assets",
+		"/C/wamp64/www/Laravel/resources/assets/js",
+		"/C/wamp64/www/Laravel/resources/assets/js/components",
+		"/C/wamp64/www/Laravel/resources/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrador/code/Laravel_5.7/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/Laravel/.env.example",
+		"/C/wamp64/www/Laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/app/Http/Controllers/ThoughtController.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/app/Http/Controllers/HomeController.php",
+		"/C/Users/Administrador/code/Laravel/composer.json",
+		"/C/wamp64/www/Laravel/composer.json",
+		"/C/wamp64/www/Laravel/database/migrations/2018_05_02_123709_create_thoughts_table.php",
+		"/C/wamp64/www/Laravel/app/Thought.php",
+		"/C/wamp64/www/Laravel/resources/assets/js/components/FormComponent.vue",
+		"/C/wamp64/www/Laravel/resources/assets/js/components/MyThoughtsComponent.vue",
+		"/C/Users/Administrador/code/Laravel_sis/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Administrador/code/Laravel_sis/composer.json",
+		"/C/wamp64/www/Laravel/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/Laravel/database/migrations/2018_12_14_150128_create_thoughts_table.php",
+		"/C/wamp64/www/Laravel/resources/views/home.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/resources/views/home.blade.php",
+		"/C/wamp64/www/Laravel/resources/assets/js/app.js",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/webpack.mix.js",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/resources/assets/js/app.js",
+		"/C/wamp64/www/Laravel/.env",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/public/js/app.js",
+		"/C/Users/Administrador/code/Laravel/.env",
+		"/C/wamp64/bin/apache/apache2.4.33/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/bin/apache/apache2.4.33/conf/extra/httpd-userdir.conf",
+		"/C/wamp64/www/Laravel/package.json",
+		"/C/Users/Administrador/code/Laravel/.env.example",
+		"/C/Users/Administrador/code/Laravel_pensam/resources/assets/js/app.js",
+		"/C/Users/Administrador/code/Laravel_pensam/package.json",
+		"/C/Users/Administrador/code/Laravel/routes/web.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/resources/views/welcome.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/layout.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/menuequipos.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/layouts/app.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/telefonos/index.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/telefonos/edit.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/dashboard.blade.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Admin/TelefonoController.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/telefonos/show.blade.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/IncidentController.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/my-thoughts-master/my-thoughts-master/resources/views/layouts/app.blade.php",
+		"/C/Users/Administrador/Downloads/AdminLTE-2.4.5/AdminLTE-2.4.5/starter.html",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/resources/views/layouts/app.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/CSS/Video 6 Jerarquia de etiquetas/Etiquetas descendientes.html",
+		"/C/Users/Administrador/Dropbox/Desarrollo/CSS/Video 5 selectores css/selectorores.html",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/public/index.php",
+		"/C/Users/Administrador/code/Laravel/app/Telefono.php",
+		"/C/Users/Administrador/code/Laravel/app/Station.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Admin/LevelController.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Requests/StoreTelefonosRequest.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_11_22_115422_create_telefonos_table.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/includes/menu.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/telefonos/menu.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/equipos/index.blade.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Admin/UserController.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_10_16_123616_create_sitios_table.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_10_17_145906_create_agentes_table.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_11_22_115005_create_marca_telefonos_table.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_11_22_130205_create_marca_telefonos_table.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_10_22_104042_create_stations_table.php",
+		"/C/Users/Administrador/code/Laravel/public/js/image-profile.js",
+		"/C/Users/Administrador/Dropbox/Desarrollo/www/BARRA/barra.html",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Admin/ComputerController.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/admin/equipos/estaciones.blade.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Admin/ComputerController - copia.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/User/ProfileController.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/incidents/show.blade.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/MessageController.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/incidents/edit.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/app/Message.php",
+		"/C/Users/Administrador/code/Laravel/app/Message.php",
+		"/C/Users/Administrador/code/Laravel/app/Incident.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/HomeController.php",
+		"/C/Users/Administrador/code/Laravel/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2017_01_24_122545_create_incidents_table.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/resources/views/home.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/home.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/layouts/chat.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/incidents/report.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/app/Incident.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/resources/views/includes/menu.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/app/Http/Controllers/IncidentController.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/config/view.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/resources/views/auth/login.blade.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/resources/views/welcome.blade.php",
+		"/C/Users/Administrador/code/Laravel/resources/views/welcome.blade.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/ProjectsUsersSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/ProjectsSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/Nueva carpeta/DatabaseSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/LevelsSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/CategoriesSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/Nueva carpeta/LevelsSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/Nueva carpeta/ProjectsSeeder.php",
+		"/F/Laravel1/database/seeds/ProjectsUserTableSeeder.php",
+		"/F/Laravel1/database/seeds/ProjectsTableSeeder.php",
+		"/F/Laravel1/database/seeds/LevelsTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/ProjectsUserTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/ProjectsUserSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/UsersSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/UsersTableSeeder.php",
+		"/F/Laravel/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/ProjectsTableSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/IncidentsSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/SupportsSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/migrations/2017_01_24_190932_create_project_user_table.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/IncidentsTableSeeder.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/CategoriesTableSeeder.php",
+		"/C/Users/Administrador/code/Laravel/public/js/app2.js",
+		"/C/Users/Administrador/code/Laravel/database/seeds/UsersTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/SupportsTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/database/seeds/SupportsTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/CURSO JAVA SCRIP/video6/ejemplo2.html",
+		"/C/Users/Administrador/code/Laravel/app/Project.php",
+		"/C/Users/Administrador/code/Laravel/public/js/app.js",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Administrador/code/Laravel/database/migrations/2018_08_24_122502_create_projects_table.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/CURSO JAVA SCRIP/Video3/ejemplo1.html",
+		"/C/Users/Administrador/code/Laravel/app/User.php",
+		"/C/Users/Administrador/code/Laravel/database/seeds/ProjectsUserTableSeeder.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/app/ProjectUser.php",
+		"/C/Users/Administrador/code/Laravel/app/ProjectUser.php",
+		"/C/Users/Administrador/Dropbox/Desarrollo/gestion-incidencias-master/public/js/app.js",
+		"/C/Users/Administrador/Dropbox/Desarrollo/CURSO JAVA SCRIP/Video7 y 8 array/arrays.html",
+		"/C/Users/Administrador/code/Laravel/database/seeds/UbicacionesSeeder.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"informe.blade.php",
+			"=\"dist",
+			"dist",
+			"bower_components",
+			"pc_marcas",
+			"@",
+			"email",
+			"name",
+			"title",
+			"level_id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "vag",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sistema.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
