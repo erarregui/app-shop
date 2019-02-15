@@ -10,10 +10,19 @@
                 <div class="card card-signup">
                     <form class="form" method="POST" action="{{ route('login') }}">
                         {{ csrf_field() }}
+                        <!-- @if ($errors->any())
+                        <div class="alert alert-danger">
+                        <ul>
+                        @foreach ($errors->all() as $error)
+                        <li>{‌{ $error }}</li>
+                        @endforeach
+                        </ul>
+                        </div>
+                        @endif -->
 
                         <div class="header header-primary text-center">
                             <h4>Inicio de sesión</h4>
-                            <div class="social-line">
+                            <!-- <div class="social-line">
                                 <a href="#pablo" class="btn btn-simple btn-just-icon">
                                     <i class="fa fa-facebook-square"></i>
                                 </a>
@@ -23,7 +32,7 @@
                                 <a href="#pablo" class="btn btn-simple btn-just-icon">
                                     <i class="fa fa-google-plus"></i>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                         <p class="text-divider">Ingresa tus datos</p>
                         <div class="content">
@@ -34,6 +43,11 @@
                                     <i class="material-icons">email</i>
                                 </span>
                                 <input id="email" type="email" placeholder="Email..." class="form-control" name="email" value="{{ old('email') }}" required autofocus>
+                                @if ($errors->has('email'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('email') }}</strong>
+                                    </span>
+                                @endif
                             </div>
 
                             <div class="input-group">
@@ -54,7 +68,7 @@
                             </div> 
                         </div>
                         <div class="footer text-center">
-                            <button type="submit" href="#pablo" class="btn btn-simple btn-primary btn-lg">Ingresar</a>
+                            <button type="submit" class="btn btn-simple btn-primary btn-lg">Ingresar</a>
                         </div>
                         <!--
                         <a class="btn btn-link" href="{{ route('password.request') }}">
